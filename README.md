@@ -40,7 +40,7 @@ ec2_global_ips = [
 ```
 
 ---
-###TEST DESCRIPTION
+### TEST DESCRIPTION
 
 #### 1 Theoretical part
 You need to create and explain a detailed plan with diagrams for the infrastructure migration from on-premise hosting to AWS Cloud.
