@@ -1,6 +1,5 @@
 Version
 Terraform v1.3.6
-![Screenshot 2023-06-28 at 10 31 37](https://github.com/Lvchnk88/test_task_IT-Craft/assets/53876938/1ddf78eb-c4fa-41c6-a33c-05f286a1f59e)
 
 
 TEST DESCRIPTION
